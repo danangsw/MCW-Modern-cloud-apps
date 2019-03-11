@@ -66,6 +66,14 @@ Before initiating the hands-on lab, you will setup an environment to use for the
 
 >**Note**: It is **highly** recommended to use a DS2 or D2 instance size for this VM.
 
+2. Install the Visual Studio Community 2017 features.
+    ![Screenshot of the Visual Studio Community 2017 features installed.](images/Setup/image11.png "Installation details")
+
+>**Note**: It is **highly** recommended to install minimum features:
+    - ASP.NET and web development
+    - Azure development
+    - .NET Core cross-platform development
+
 ### Task 2: Disable IE Enhanced Security
 
 >**Note**: Sometimes this image has IE ESC already disabled, and sometimes it does not.
